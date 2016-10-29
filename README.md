@@ -1,0 +1,2 @@
+# BostonHousePricesRegression
+Linear regressions (normal, lasso, l2, etc) on sklearn's Boston house prices dataset.
